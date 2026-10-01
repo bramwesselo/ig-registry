@@ -391,6 +391,11 @@
       "name": "Region Västra Götaland (VGR) Sweden",
       "url": "https://fhir.vgregion.se/ig/package-feed.xml",
       "errors": "kompetensgrupp.fhir|vgregion.se"
+    },
+    {
+      "name": "Ministerie van VWS - Generieke Functies (NL)",
+      "url": "https://fhir.generiekefuncties.nl/package-feed.xml",
+      "errors": "bram_wesselo|minvws_nl"
     }
   ],
   "package-restrictions": [
@@ -433,6 +438,10 @@
     {
       "mask": "hl7.fhir.nl.*",
       "feeds": [ "https://implementatiegids.zorgviewer.nl/package-feed.xml", "https://packages.simplifier.net/rssfeed" ]
+    },
+    {
+      "mask": "nl.generiekefuncties.*",
+      "feeds": [ "https://fhir.generiekefuncties.nl/package-feed.xml" ]
     },
     {
       "mask": "hl7.fhir.fi.*",
