@@ -9488,7 +9488,7 @@
     "name" : "Generieke Functies - Care Service Directory",
     "category" : "National Base",
     "npm-name" : "nl.generiekefuncties.csd",
-    "description" : "Specifies the technical components of the Generic Functions programme for data exchange in Dutch healthcare, led by the Ministry of Health, Welfare and Sport (VWS). This guide covers Care Services Directory, based on the IHE mCSD profile.",
+    "description" : "Specifies the technical components of the Generic Functions programme for data exchange in Dutch healthcare, led by the Ministry of Health, Welfare and Sport (VWS). This guide covers Care Service Directory, based on the IHE mCSD profile.",
     "authority" : "Ministry of Health, Welfare and Sport",
     "country" : "nl",
     "history" : "http://fhir.generiekefuncties.nl/csd/history.html",
