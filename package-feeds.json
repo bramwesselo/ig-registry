@@ -393,8 +393,8 @@
       "errors": "kompetensgrupp.fhir|vgregion.se"
     },
     {
-      "name": "Ministerie van VWS - Generieke Functies (NL)",
-      "url": "https://fhir.generiekefuncties.nl/package-feed.xml",
+      "name": "Ministerie van VWS - The Netherlands",
+      "url": "https://code.overheid.nl/MinVWS/fhir-package-feed/raw/branch/main/package-feed.xml",
       "errors": "bram_wesselo|minvws_nl"
     }
   ],
@@ -441,7 +441,7 @@
     },
     {
       "mask": "nl.generiekefuncties.*",
-      "feeds": [ "https://fhir.generiekefuncties.nl/package-feed.xml" ]
+      "feeds": [ "https://code.overheid.nl/MinVWS/fhir-package-feed/raw/branch/main/package-feed.xml" ]
     },
     {
       "mask": "hl7.fhir.fi.*",

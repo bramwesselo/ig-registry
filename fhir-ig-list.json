@@ -9498,10 +9498,10 @@
     "product" : ["fhir"],
     "editions" : [{
       "name" : "Trial Use 1",
-      "ig-version" : "1.0.0",
-      "package" : "nl.generiekefuncties.csd#1.0.0",
+      "ig-version" : "1.1.0",
+      "package" : "nl.generiekefuncties.csd#1.1.0",
       "fhir-version" : ["4.0.1"],
-      "url" : "http://fhir.generiekefuncties.nl/csd/1.0.0"
+      "url" : "http://fhir.generiekefuncties.nl/csd/1.1.0"
     }]
   },
   {
