@@ -9487,21 +9487,21 @@
   {
     "name" : "Generieke Functies - Care Service Directory",
     "category" : "National Base",
-    "npm-name" : "nl.generiekefuncties.csd",
+    "npm-name" : "nl.generiekefuncties.fhir",
     "description" : "Specifies the technical components of the Generic Functions programme for data exchange in Dutch healthcare, led by the Ministry of Health, Welfare and Sport (VWS). This guide covers Care Service Directory, based on the IHE mCSD profile.",
     "authority" : "Ministry of Health, Welfare and Sport",
     "country" : "nl",
-    "history" : "http://fhir.generiekefuncties.nl/csd/history.html",
+    "history" : "http://fhir.generiekefuncties.nl/history.html",
     "language" : ["en"],
-    "canonical" : "http://fhir.generiekefuncties.nl/csd",
+    "canonical" : "http://fhir.generiekefuncties.nl",
     "ci-build" : "https://build.fhir.org/ig/minvws/generiekefuncties-docs",
     "product" : ["fhir"],
     "editions" : [{
       "name" : "Trial Use 1",
-      "ig-version" : "1.1.0",
-      "package" : "nl.generiekefuncties.csd#1.1.0",
+      "ig-version" : "26.0.0",
+      "package" : "nl.generiekefuncties.fhir#26.0.0",
       "fhir-version" : ["4.0.1"],
-      "url" : "http://fhir.generiekefuncties.nl/csd/1.1.0"
+      "url" : "http://fhir.generiekefuncties.nl/26.0.0"
     }]
   },
   {
